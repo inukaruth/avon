@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "krem",
+    "title": "açıklama hdsfdkjsfl ıfew jfpewfp ew fııpewfıfpefıpewfıpwefıe w*ffewf fıewfıew f9ewo fewf ewfewf ewfew",
+    "price": 999.99,
+    "image": "product01.jpg"
+  },
+  {
+    "id": 2,
+    "name": "sprey",
+    "title": "açıklama hdsfdkjsfl ıfew jfpewfp ew fııpewfıfpefıpewfıpwefıe w*ffewf fıewfıew f9ewo fewf ewfewf ewfew",
+    "price": 99.99,
+    "image": "product02.jpg"
+  },
+  {
+    "id": 3,
+    "name": "parfüm",
+    "title": "açıklama hdsfdkjsfl ıfew jfpewfp ew fııpewfıfpefıpewfıpwefıe w*ffewf fıewfıew f9ewo fewf ewfewf ewfewKim",
+    "price": 99.99,
+    "image": "product03.jpg"
+  },
+  {
+    "id": 4,
+    "name": "ilaç",
+    "title": "açıklama hdsfdkjsfl ıfew jfpewfp ew fııpewfıfpefıpewfıpwefıe w*ffewf fıewfıew f9ewo fewf ewfewf ewfew",
+    "price": 99.99,
+    "image": "product04.jpg"
+  },
+  {
+    "id": 5,
+    "name": "jel",
+    "title": "açıklama hdsfdkjsfl ıfew jfpewfp ew fııpewfıfpefıpewfıpwefıe w*ffewf fıewfıew f9ewo fewf ewfewf ewfew",
+    "price": 99.99,
+    "image": "product05.jpg"
+  }
+
+
+]

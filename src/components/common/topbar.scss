@@ -1,0 +1,53 @@
+.topbar-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Eşit boşluk bırakmak için */
+
+}
+
+.whatsapp-link,
+.facebook-link,
+.instagram-link { 
+    flex: 1; /* Butonların eşit genişlikte olmasını sağlar */
+    padding: 0.5rem 1rem; /* Butonların iç boşluğunu ayarla */
+    color: #fff; /* Yazı rengi */
+    text-align: center; /* Metni ortalamak için */
+    transition: background-color 0.3s; /* Renk geçişi efekti */
+}
+
+/* Buton renkleri */
+.whatsapp-link {
+    background-color: #25D366; /* WhatsApp yeşil */
+}
+
+.facebook-link {
+    background-color: #1877F2; /* Facebook mavi */
+}
+
+.instagram-link {
+    background-color: #C13584; /* Instagram pembe */
+}
+
+/* Hover efektleri */
+.whatsapp-link:hover {
+    background-color: #1DA851; /* WhatsApp hover rengi */
+}
+
+.facebook-link:hover {
+    background-color: #145dbf; /* Facebook hover rengi */
+}
+
+.instagram-link:hover {
+    background-color: #A52A6E; /* Instagram hover rengi */
+}
+
+/* Bilgisayar ekranları için boşluk düzenlemeleri */
+@media (min-width: 768px) {
+    .whatsapp-link {
+        margin-left: 0; /* Bilgisayar ekranında boşluk kalmasın */
+    }
+
+    .instagram-link {
+        margin-right: 0; /* Bilgisayar ekranında boşluk kalmasın */
+    }
+}
