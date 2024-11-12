@@ -1,0 +1,51 @@
+.header-container {
+  background-color: rgb(206, 7, 206);
+  display: flex;
+  align-items: center; 
+  
+   
+
+
+  }
+
+  
+
+  .sollogo img {
+    width: 120%; 
+    margin: 10%;
+    margin-left: 12%;
+
+  }
+
+
+
+    
+  
+  .vatsap {
+    color: white;
+    position: absolute;
+    right: 5%;
+    font-size: 2.2rem;
+    margin-top: 0.4rem;
+  }
+
+  @media (min-width: 768px) {
+    .header-container {
+
+      .sollogo img {
+        width: 200%;
+      }
+
+
+
+
+
+  .vatsap {
+    font-size: 400%;
+
+    
+    
+  }
+
+  }
+}
