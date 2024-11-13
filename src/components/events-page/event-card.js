@@ -19,7 +19,7 @@ const EventCard = ({ name, title, price, image }) => {
 
           {/* WhatsApp Butonu ve "Buy Now" Yazısı */}
           <a 
-            href={`https://wa.me/905538033937?text=${encodeURIComponent(whatsappMessage)}`} 
+            href={`https://wa.me/+258845629356?text=${encodeURIComponent(whatsappMessage)}`} 
             className="product-card__whatsapp" 
             target="_blank" 
             rel="noopener noreferrer"

@@ -13,7 +13,7 @@ const Ust = () => {
         <img src={`${process.env.PUBLIC_URL}/images/logo.png`} alt="Logo" className="logo" />
         </Nav.Link>
 
-        <Nav.Link className="vatsap" href='https://wa.me/905538033937'>
+        <Nav.Link className="vatsap" href='https://wa.me/+258845629356'>
           <FaWhatsapp/> {/* Icon boyutunu istediğin gibi ayarlayabilirsin */}
         </Nav.Link>
 
