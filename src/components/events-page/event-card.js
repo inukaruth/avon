@@ -8,7 +8,7 @@ const EventCard = ({ name, title, price, image }) => {
 
   return (
     <Card className="product-card">
-      <Card.Img variant="top" src={`/images/events/${image}`} alt={title} className="img-fluid" />
+      <Card.Img variant="top" src={`${process.env.PUBLIC_URL}/images/events/${image}`} alt={title} className="img-fluid" />
       <Card.Body>
         <div className="product-card__details">
           <h2 className="product-card__name">{name}</h2>

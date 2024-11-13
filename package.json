@@ -1,4 +1,6 @@
 {
+  "homepage": "https://emir12791.github.io/inukaruth/",
+  
   
   "name": "krem",
   
@@ -102,6 +104,9 @@
     
   "start": "react-scripts start",
   
+  "predeploy":"npm run build",
+
+  "deploy":"gh-pages -d build",
     
   "build": "react-scripts build",
   

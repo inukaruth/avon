@@ -10,7 +10,7 @@ const Ust = () => {
       <Container className="header-container">
 
         <Nav.Link className="sollogo">
-          <img src="/images/logo.png" alt="Logo" className="logo" />
+        <img src={`${process.env.PUBLIC_URL}/images/logo.png`} alt="Logo" className="logo" />
         </Nav.Link>
 
         <Nav.Link className="vatsap" href='https://wa.me/905538033937'>
