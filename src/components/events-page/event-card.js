@@ -24,7 +24,7 @@ const EventCard = ({ name, title, price, image }) => {
             target="_blank" 
             rel="noopener noreferrer"
           >
-            <FaWhatsapp /> Şimdi Al
+            <FaWhatsapp /> comprar Agora
           </a>
         </div>
       </Card.Body>

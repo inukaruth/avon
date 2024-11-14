@@ -1,22 +1,22 @@
 [
   {
     "id": 1,
-    "name": "krem",
-    "title": "açıklama hdsfdkjsfl ıfew jfpewfp ew fııpewfıfpefıpewfıpwefıe w*ffewf fıewfıew f9ewo fewf ewfewf ewfew",
-    "price": 999.99,
+    "name": "Avon Care",
+    "title": "Creme Para As Mãos",
+    "price": "200",
     "image": "product01.jpg"
   },
   {
     "id": 2,
     "name": "sprey",
-    "title": "açıklama hdsfdkjsfl ıfew jfpewfp ew fııpewfıfpefıpewfıpwefıe w*ffewf fıewfıew f9ewo fewf ewfewf ewfew",
-    "price": 99.99,
+    "title": "Creme Para As Mãos",
+    "price": "850",
     "image": "product02.jpg"
   },
   {
     "id": 3,
     "name": "parfüm",
-    "title": "açıklama hdsfdkjsfl ıfew jfpewfp ew fııpewfıfpefıpewfıpwefıe w*ffewf fıewfıew f9ewo fewf ewfewf ewfewKim",
+    "title": "Creme Para As Mãos",
     "price": 99.99,
     "image": "product03.jpg"
   },
