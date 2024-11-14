@@ -17,7 +17,7 @@
     "id": 3,
     "name": "parfüm",
     "title": "Creme Para As Mãos",
-    "price": 99.99,
+    "price": "500",
     "image": "product03.jpg"
   },
   {
