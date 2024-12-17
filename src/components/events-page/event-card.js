@@ -4,7 +4,7 @@ import './event-card.scss';
 import { FaWhatsapp } from 'react-icons/fa';
 
 const EventCard = ({ name, title, price, image }) => {
-  const whatsappMessage = `${name} hakkında bilgi almak istiyorum`;
+  const whatsappMessage = `Quero obter informações sobre o ${name}`;
 
   return (
     <Card className="product-card">
@@ -15,7 +15,7 @@ const EventCard = ({ name, title, price, image }) => {
           <div className='product-card__kutu'>
             <p className="product-card__title">{title}</p>
           </div>
-          <p className="product-card__price">{price}₺</p>
+          <p className="product-card__price">{price}MZN</p>
 
           {/* WhatsApp Butonu ve "Buy Now" Yazısı */}
           <a 
