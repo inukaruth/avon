@@ -2,38 +2,141 @@
   {
     "id": 1,
     "name": "Avon Care",
-    "title": "Creme Para As Mãos",
+    "title": "Creme para as Mãos com Óleo de Coco 75ml",
     "price": "200",
-    "image": "product01.jpg"
+    "image": "product (1).jpg"
   },
   {
     "id": 2,
-    "name": "sprey",
-    "title": "Creme Para As Mãos",
-    "price": "850",
-    "image": "product02.jpg"
+    "name": "Avon care",
+    "title": "Creme para as mãos Avon Care Pomegranate 75ml",
+    "price": "200",
+    "image": "product (2).jpg"
   },
   {
     "id": 3,
-    "name": "parfüm",
-    "title": "Creme Para As Mãos",
-    "price": "500",
-    "image": "product03.jpg"
+    "name": "Avon Care",
+    "title": "Creme para as mãos de abacate reabastecedor 75ml",
+    "price": "200",
+    "image": "product (3).jpg"
   },
   {
     "id": 4,
-    "name": "ilaç",
-    "title": "açıklama hdsfdkjsfl ıfew jfpewfp ew fııpewfıfpefıpewfıpwefıe w*ffewf fıewfıew f9ewo fewf ewfewf ewfew",
-    "price": 99.99,
-    "image": "product04.jpg"
+    "name": "Avon Care",
+    "title": "Creme de Glicerina para Mãos 75ml",
+    "price": "200",
+    "image": "product (4).jpg"
   },
   {
     "id": 5,
-    "name": "jel",
-    "title": "açıklama hdsfdkjsfl ıfew jfpewfp ew fııpewfıfpefıpewfıpwefıe w*ffewf fıewfıew f9ewo fewf ewfewf ewfew",
-    "price": 99.99,
-    "image": "product05.jpg"
+    "name": "Avon Care",
+    "title": "Creme para as mãos com manteiga de cacau 75ml",
+    "price": "200",
+    "image": "product (5).jpg"
+  },
+  {
+    "id": 6,
+    "name": "Avon Care",
+    "title": "Creme para as mãos com aroma de jasmim cintilante e glicerina 75",
+    "price": "200",
+    "image": "product (6).jpg"
+  },
+  {
+    "id": 7,
+    "name": "Avon Works",
+    "title": "Creme Depilatório Corporal 100ml",
+    "price": "850",
+    "image": "product (7).jpg"
+  },
+  {
+    "id": 8,
+    "name": "Avon Senses",
+    "title": "Banho de espuma Raspberry Delight 500ml",
+    "price": "1000",
+    "image": "product (8).jpg"
+  },
+  {
+    "id": 9,
+    "name": "Avon Care",
+    "title": "Loção Corporal de Romã 400ml",
+    "price": "400",
+    "image": "product (9).jpg"
+  },
+  {
+    "id": 10,
+    "name": "Avon Care",
+    "title": "Loção Corporal Suavizante Frutas Tropicais 400ml",
+    "price": "400",
+    "image": "product (10).jpg"
+  },
+  {
+    "id": 11,
+    "name": "Avon Care",
+    "title": "Loção Corporal Radiance Berry Fusion 400ml",
+    "price": "400",
+    "image": "product (11).jpg"
+  },
+  {
+    "id": 12,
+    "name": "Avon Care",
+    "title": "Loção Corporal Reabastecedora de Abacate 400ml",
+    "price": "400",
+    "image": "product (12).jpg"
+  },
+  {
+    "id": 13,
+    "name": "Avon Care",
+    "title": "Loção Corporal Manteiga de Cacau 400ml",
+    "price": "400",
+    "image": "product (13).jpg"
+  },
+  {
+    "id": 14,
+    "name": "Inuka Perfume",
+    "title": "",
+    "price": "",
+    "image": "product (14).jpg"
+  },
+  {
+    "id": 15,
+    "name": "",
+    "title": "",
+    "price": "",
+    "image": "product (15).jpg"
+  },
+  {
+    "id": 16,
+    "name": "",
+    "title": "",
+    "price": "",
+    "image": "product (16).jpg"
+  },
+  {
+    "id": 17,
+    "name": "",
+    "title": "",
+    "price": "",
+    "image": "product (17).jpg"
+  },
+  {
+    "id": 18,
+    "name": "",
+    "title": "",
+    "price": "",
+    "image": "product (18).jpg"
+  },
+  {
+    "id": 19,
+    "name": "",
+    "title": "",
+    "price": "",
+    "image": "product (19).jpg"
+  },
+  {
+    "id": 20,
+    "name": "",
+    "title": "",
+    "price": "",
+    "image": "product (20).jpg"
   }
-
-
 ]

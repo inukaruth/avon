@@ -6,15 +6,17 @@ import data from '../../helpers/data/events.json'; // Assuming you have your JSO
 const ProductList = () => {
   return (
     <div className="product-list">
-      {data.map((product) => (
-        <EventCard
-          key={product.id}
-          name={product.name}
-          title={product.title}
-          price={product.price}
-          image={product.image}
-        />
-      ))}
+      {data
+        .filter((product) => product.name.trim() !== '') // name boş değilse devam et
+        .map((product) => (
+          <EventCard
+            key={product.id}
+            name={product.name}
+            title={product.title}
+            price={product.price}
+            image={product.image}
+          />
+        ))}
     </div>
   );
 };
